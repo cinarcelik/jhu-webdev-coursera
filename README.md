@@ -6,6 +6,7 @@ I am following the course using Git Bash on my Windows to get used to Git comman
 The links for the assignment solutions are: 
 - https://cinarcelik.github.io/coursera-repo/module-2-assignment
 - https://cinarcelik.github.io/coursera-repo/module-3-assignment
+- https://cinarcelik.github.io/coursera-repo/module-4-assignment
 
 ## Notes
 | Command | Description |
