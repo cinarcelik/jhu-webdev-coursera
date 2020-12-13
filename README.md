@@ -7,6 +7,7 @@ The links for the assignment solutions are:
 - https://cinarcelik.github.io/coursera-repo/module-2-assignment
 - https://cinarcelik.github.io/coursera-repo/module-3-assignment
 - https://cinarcelik.github.io/coursera-repo/module-4-assignment
+- https://cinarcelik.github.io/coursera-repo/module-5-assignment
 
 ## Notes
 | Command | Description |
