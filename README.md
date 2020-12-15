@@ -10,3 +10,4 @@ The links for the assignment solutions are:
 - https://cinarcelik.github.io/jhu-webdev-coursera/module-5-assignment
 
 ![The Coursera Certificate](./Coursera_JMBPML2U2ZAJ.png)
+[Click here to verify](https://coursera.org/verify/JMBPML2U2ZAJ)
