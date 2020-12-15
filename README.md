@@ -4,10 +4,10 @@ Assignment submission repository for Mr. Yaakov Chaikin's "HTML, CSS and JS for 
 I am following the course using Git Bash on my Windows to get used to Git commands, instead of using GitHub Desktop as I usually do.
 
 The links for the assignment solutions are: 
-- https://cinarcelik.github.io/coursera-repo/module-2-assignment
-- https://cinarcelik.github.io/coursera-repo/module-3-assignment
-- https://cinarcelik.github.io/coursera-repo/module-4-assignment
-- https://cinarcelik.github.io/coursera-repo/module-5-assignment
+- https://cinarcelik.github.io/jhu-webdev-coursera/module-2-assignment
+- https://cinarcelik.github.io/jhu-webdev-coursera/module-3-assignment
+- https://cinarcelik.github.io/jhu-webdev-coursera/module-4-assignment
+- https://cinarcelik.github.io/jhu-webdev-coursera/module-5-assignment
 
 ## Notes
 | Command | Description |
