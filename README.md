@@ -9,7 +9,4 @@ The links for the assignment solutions are:
 - https://cinarcelik.github.io/jhu-webdev-coursera/module-4-assignment
 - https://cinarcelik.github.io/jhu-webdev-coursera/module-5-assignment
 
-## Notes
-| Command | Description |
-| --- | --- |
-| `browser-sync start --server --directory --files "*"` | Start the live server of browser sync watching all files in the directory |
+![The Coursera Certificate](./Coursera_JMBPML2U2ZAJ.png)
